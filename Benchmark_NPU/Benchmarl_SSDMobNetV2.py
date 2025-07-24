@@ -5,8 +5,8 @@ from rknnlite.api import RKNNLite
 
 # === CONFIG ===
 RKNN_MODEL = 'ssd_mobilenet_v2_int8.rknn'
-IMAGE_PATH = 'immagine.jpg'  # Cambia con il nome reale dell'immagine
-INPUT_SIZE = (300, 300)      # SSD-MobileNet usa tipicamente 300x300
+IMAGE_PATH = 'immagine.jpg'  
+INPUT_SIZE = (300, 300)      
 N_RUNS = 15
 
 # === LOAD RKNN MODEL ===
