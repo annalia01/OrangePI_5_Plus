@@ -1,3 +1,5 @@
+Innanzitutto installare dalle API di Google il kernel Linux Jammy Desktop 5.10.160.
+
 Di seguito sono presentate tutte le librerie utilizzate per il progetto.
 
 sudo apt update
