@@ -26,6 +26,8 @@ pip3 install rknn-toolkit-lite2
 pip install opencv-python
  
 *PER APPLICARE LA PATCH REAL TIME:*
+Scaricare dal seguente link i pacchetti .deb
+https://mega.nz/folder/zhwVyJBK#iWqElAfYL21Rn08PmB55DA
  
 cd
 cd *cartella Kernel Real Time -> rt-with-updated-drivers*
